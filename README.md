@@ -45,6 +45,6 @@ Run the game by navigating to the project directory and running `python main.py`
 
 ## Author
 
-[Your Name]
+Charles Baguley
 - GitHub: [cbaguley3]
 - Email: [charlesbaguley@gmail.com]
